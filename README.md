@@ -25,3 +25,4 @@ This first iteration is designed to deploy quickly to get understanding of the c
 ## More Information
 - https://docs.oracle.com/javacomponents/usage-tracker/overview/
 - https://www.oracle.com/assets/java-se-subscription-pricelist-5028356.pdf
+- https://www.unal.org/2019/12/03/track-your-java-usage-with-javausagetracker/
