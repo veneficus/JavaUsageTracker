@@ -17,7 +17,7 @@ This is a simple UDP listener server that listens UDP port 32139. JRE sends a co
 1. Open the javalog.py and change the host variable to match the IP address of the server you are going to install the listener application. Run the javalog.py to start listening UDP communications.
 2. Open the usagetracker.properties file and update the IP address to match the server's IP address. Deploy the configuration script with your favorite deployment tool. Please make sure that the deployment script has access to the configuration file. 
 
-That's all. Upon the competion of the script deployment JRE will be configures to forward its usage logs to the server you defined. 
+That's all. Upon the competion of the script deployment JRE will be configured to forward its usage logs to the server you defined. 
 
 ## Limitations
 This first iteration is designed to deploy quickly to get understanding of the current usage. It does not support concurrent connections, so it does not scale well to more than 10,000 clients. 
