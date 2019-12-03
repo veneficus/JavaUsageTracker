@@ -21,3 +21,7 @@ That's all. Upon the competion of the script deployment JRE will be configures t
 
 ## Limitations
 This first iteration is designed to deploy quickly to get understanding of the current usage. It does not support concurrent connections, so it does not scale well to more than 10,000 clients. 
+
+## More Information
+- https://docs.oracle.com/javacomponents/usage-tracker/overview/
+- https://www.oracle.com/assets/java-se-subscription-pricelist-5028356.pdf
